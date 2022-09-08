@@ -47,6 +47,17 @@
 /*! ------------ 3- ABOUT SECTION ----------- */
 
 /*! ------------- 4- INSTRUCTORS -------------*/
+.card {
+  transition: transform 0.5s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.socials i:hover{
+    opacity: 0.5;
+}
 
 /*! ----------- 4- STUDENTS SECTION ----------*/
 
