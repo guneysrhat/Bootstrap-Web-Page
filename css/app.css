@@ -27,7 +27,16 @@
   font-weight: 600;
 }
 
-.carousel-item
+.carousel-item .btn {
+  width: 7rem;
+  margin-bottom: 1rem;
+}
+.carousel-indicators button {
+  background-color: var(--red) !important;
+  height: 0.4rem !important;
+  width: 3rem !important;
+  margin-right: 0.5rem !important;
+}
 
 /*! ------------ 3- ABOUT SECTION ----------- */
 
