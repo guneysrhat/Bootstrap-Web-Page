@@ -101,6 +101,9 @@ section#courses .nav-link {
 .btn-up:hover {
   color: black;
 }
+.btn-up:hover i {
+  transform: scale(1.2);
+}
 
 /*! --------------- 7- FOOTER ----------------- */
 
