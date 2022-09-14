@@ -1,3 +1,5 @@
 # Bootstrap Project
 
-https://bootstrapcw.netlify.app/
+live version
+
+https://guneysrhat.github.io/Bootstrap-Web-Page/
